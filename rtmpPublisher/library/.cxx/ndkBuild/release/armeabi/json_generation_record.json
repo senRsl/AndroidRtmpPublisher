@@ -1,0 +1,20 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 19 min SDK version: armeabi",
+    "file": "/Users/senrsl/temp/AndroidRtmpPublisher/rtmpPublisher/jni/Android.mk",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/Users/senrsl/temp/AndroidRtmpPublisher/rtmpPublisher/library/.cxx/ndkBuild/release/armeabi/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/Users/senrsl/temp/AndroidRtmpPublisher/rtmpPublisher/jni/Android.mk",
+    "tag": "release|armeabi"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/senrsl/temp/AndroidRtmpPublisher/rtmpPublisher/jni/Android.mk",
+    "tag": "release|armeabi"
+  }
+]
