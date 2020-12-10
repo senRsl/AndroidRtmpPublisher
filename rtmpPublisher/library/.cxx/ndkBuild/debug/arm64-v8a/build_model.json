@@ -98,7 +98,6 @@
       "project": {
         "compilerSettingsCacheFolder": "/Users/senrsl/temp/AndroidRtmpPublisher/rtmpPublisher/.cxx",
         "cxxFolder": "/Users/senrsl/temp/AndroidRtmpPublisher/rtmpPublisher/.cxx",
-        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
@@ -145,6 +144,8 @@
     "objFolder": "/Users/senrsl/temp/AndroidRtmpPublisher/rtmpPublisher/library/build/intermediates/ndkBuild/debug/obj/local",
     "variantName": "debug",
     "validAbiList": [
+      "ARMEABI",
+      "ARMEABI_V7A",
       "ARM64_V8A"
     ],
     "prefabDirectory": "/Users/senrsl/temp/AndroidRtmpPublisher/rtmpPublisher/library/.cxx/ndkBuild/debug/prefab",
